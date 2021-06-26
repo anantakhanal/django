@@ -1,1 +1,1 @@
-# django tyring GitHub!!
+# django trying  GitHub!!
